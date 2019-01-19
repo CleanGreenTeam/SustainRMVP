@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "43553729707",
+    "firebase_url": "https://sustainrmvp.firebaseio.com",
+    "project_id": "sustainrmvp",
+    "storage_bucket": "sustainrmvp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43553729707:android:ee2a191dd1bb215a",
+        "android_client_info": {
+          "package_name": "com.example.sustainr_mvp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43553729707-v0tcljvvss46t4sgd6tebdu5bhv53qtv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sustainr_mvp",
+            "certificate_hash": "bc918328a3a48b4fd025c1f73188de08dd827d85"
+          }
+        },
+        {
+          "client_id": "43553729707-k3c09h5q2l7hb1vb5387e27no42hvvob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8GL9Q2QlfUFlxOVAyzlDQSY-jlcHUkY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43553729707-rn8dosag0lm7m47cpi50dm3igub6148m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
